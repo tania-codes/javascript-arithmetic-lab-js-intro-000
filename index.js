@@ -23,5 +23,5 @@ function dec(n){
 }
 
 function makeInt(n){
-  return parseInt('10',842)
+  return parseInt(n + 1)
 }
